@@ -4,8 +4,7 @@ import cairoplot
 import serial
 import time
 
-#geigerPort = "/dev/ttyUSB0"
-geigerPort = "bar"
+geigerPort = "/dev/ttyUSB0"
 plotLength = 30
 chartPath  = "geiger.png"
 
