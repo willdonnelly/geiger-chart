@@ -1,0 +1,6 @@
+This is a quick standalone script I wrote to read the output of the Sparkfun Geiger Counter
+via serial, count the number of events per minute, and generate a plot of the last N such
+counts as a PNG.
+
+I don't actually own a geiger counter so I have no idea how well it works with the real thing,
+but the plotting code definitely works.
